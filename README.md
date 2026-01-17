@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Omkar Thombare
 
-<!--
-**OMKARTHOMBARE007/OMKARTHOMBARE007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & ML Enthusiast | Data Science | GenAI | Python  
+🎓 B.Tech Student | Final Year  
+📍 Maharashtra, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Python
+- Machine Learning
+- Data Science
+- SQL
+- Flask
+- Streamlit
+- Git & GitHub
+
+---
+
+## 🔥 Featured Projects (In Progress)
+- Fake News Detection System
+- AI Interview Question Generator
+- Resume Analyzer using NLP
+- Disaster Alert Translator (Multilingual)
+
+---
+
+## 📊 GitHub Stats
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMKARTHOMBARE007&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/omkar-thombare-781017278
+- Email: thombareomkar191@gmail.com
+
