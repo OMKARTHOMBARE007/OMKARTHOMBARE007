@@ -37,7 +37,6 @@ _(Projects uploading soon)_
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
