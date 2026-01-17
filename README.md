@@ -39,17 +39,20 @@ _(Projects uploading soon)_
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar0072&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OMKARTHOMBARE007&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar0072&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARTHOMBARE007&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar0072&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=OMKARTHOMBARE007&theme=radical" />
 </p>
+
 
 
 ## 🤝 Connect With Me
