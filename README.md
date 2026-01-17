@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Omkar</h1>
 
 <h1 align="center">Hi 👋, I'm Omkar Thombare</h1>
 <h3 align="center">AI | Machine Learning | Data Science | GenAI | Python</h3>
