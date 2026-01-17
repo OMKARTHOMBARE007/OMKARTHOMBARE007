@@ -40,7 +40,8 @@ _(Projects uploading soon)_
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=OMKARTHOMBARE007&show_icons=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARTHOMBARE007&layout=compact)
+
 
 
 
