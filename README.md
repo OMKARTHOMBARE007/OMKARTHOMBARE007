@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Omkar</h1>
 
 <h1 align="center">Hi 👋, I'm Omkar Thombare</h1>
-<h3 align="center">AI | Machine Learning | Data Science | GenAI | Python</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+Enthusiast;Data+Science+%7C+GenAI;Python+Developer;Always+Learning+New+Things" />
+</p>
 
 <p align="center">
   🎓 B.Tech Student (Final Year) &nbsp;•&nbsp; 📍 Maharashtra, India
@@ -11,44 +13,27 @@
 
 ## 👨‍💻 About Me
 - Passionate about **Artificial Intelligence & Machine Learning**
+- Interested in **Data Science, GenAI & Python**
 - Love building **real-world AI projects**
-- Focused on **Python, Data Science & GenAI**
-- Always learning and improving 🚀
+- Consistent learner 🚀
 
 ---
 
-## 🛠️ Tech Stack
-**Languages & Tools**
-- Python  
-- SQL  
-- Git & GitHub  
-
-**AI / ML**
-- Machine Learning  
-- Data Science  
-- NLP  
-- Scikit-learn  
-
-**Frameworks**
-- Flask  
-- Streamlit  
+## 🛠️ Skills
+- **Programming:** Python, SQL  
+- **AI / ML:** Machine Learning, Data Science, NLP  
+- **Frameworks:** Flask, Streamlit  
+- **Tools:** Git, GitHub  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 - 📰 **Fake News Detection System**  
-  *ML-based system to classify news as real or fake*
-
 - 🤖 **AI Interview Question Generator**  
-  *AI-powered tool for interview preparation*
-
 - 📄 **Resume Analyzer using NLP**  
-  *Skill matching & resume analysis system*
+- 🌍 **Disaster Alert Translator (Multilingual)**  
 
-- 🌍 **Disaster Alert Translator**  
-  *Multilingual emergency alert translation*
-
-_(Projects will be uploaded soon)_
+_(Projects uploading soon)_
 
 ---
 
@@ -65,4 +50,5 @@ _(Projects will be uploaded soon)_
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
+
