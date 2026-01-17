@@ -20,8 +20,7 @@
 ## 🔥 Featured Projects (In Progress)
 - Fake News Detection System
 - AI Interview Question Generator
-- Resume Analyzer using NLP
-- Disaster Alert Translator (Multilingual)
+
 
 ---
 
