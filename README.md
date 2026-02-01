@@ -40,7 +40,8 @@ _(Projects uploading soon)_
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARTHOMBARE007&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARTHOMBARE007&layout=compact&theme=transparent&cache_seconds=86400)
+
 
 
 
