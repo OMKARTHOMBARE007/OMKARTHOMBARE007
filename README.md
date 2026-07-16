@@ -31,7 +31,7 @@
 - 📰 **Fake News Detection System**  
 - 🤖 **AI Interview Question Generator**  
 - 📄 **Resume Analyzer using NLP**  
-- 🌍 **Disaster Alert Translator (Multilingual)**  
+- 🌍 **Digital Gram Panchayat Intelligence System (DGPIS)**  
 
 _(Projects uploading soon)_
 
