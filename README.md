@@ -167,16 +167,7 @@ An interactive dashboard for visualizing and analyzing financial data trends to 
 
 `Power BI` `Data Analytics` `Python`
 
-</td>
-<td width="50%" valign="top">
 
-### 🧾 Billing Software
-A robust and efficient billing management system built to simplify invoicing and transaction tracking for businesses.
-
-`Python` `SQL` `Software Development`
-
-</td>
-</tr>
 
 <tr>
 <td width="50%" valign="top">
