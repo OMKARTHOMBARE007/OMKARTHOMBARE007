@@ -1,261 +1,147 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Omkar%20Thombare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=20" width="100%"/>
-
-<br>
-
-<a href="https://linkedin.com/in/omkar-thombare-781017278">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%7C+GenAI;Python+Developer;Open+Source+Learner;Building+Real-World+AI+Solutions" alt="Typing SVG" />
-</a>
-
-<br>
-
-<img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-informational?style=for-the-badge&logo=googlemaps&logoColor=white&color=1a1a2e"/>
-<img src="https://img.shields.io/badge/Status-Final%20Year%20B.Tech%20Student-informational?style=for-the-badge&logo=googlescholar&logoColor=white&color=16213e"/>
-<img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Full--Time-success?style=for-the-badge&logo=handshake&logoColor=white&color=0f3460"/>
-
-<br><br>
-
-<a href="https://linkedin.com/in/omkar-thombare-781017278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:thombareomkar191@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/OMKARTHOMBARE007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=OMKARTHOMBARE007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
-<br>
-
-## 🧠 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/OMKARTHOMBARE007/OMKARTHOMBARE007/main/assets/coding.gif" alt="coding gif" onerror="this.style.display='none'"/>
-
-```python
-class OmkarThombare:
-    def __init__(self):
-        self.name = "Omkar Thombare"
-        self.role = "Final Year B.Tech Student"
-        self.location = "Maharashtra, India"
-        self.focus = ["AI", "Machine Learning", "Data Science", "NLP", "GenAI"]
-        self.currently_open_to = ["Internships", "Full-Time Opportunities"]
-
-    def philosophy(self):
-        return "Solving real-world problems using Artificial Intelligence 🚀"
-
-    def mindset(self):
-        return "Always learning. Always building. Always curious." 
-```
-
-- 🎓 Final Year **B.Tech** student, deeply passionate about **AI, ML, Data Science, NLP & Generative AI**
-- 🤖 Love solving **real-world problems** through intelligent, data-driven solutions
-- 📚 Constantly exploring new technologies in the AI/ML ecosystem
-- 💼 **Open to Internships and Full-Time opportunities** in AI/ML & Data Science roles
-- 🌱 Believer in **learning by building**
-
-<br>
-
-## 🛠️ Tech Stack
+# 👋 Hi, I'm Omkar Thombare
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Omkar%20Thombare&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=60&descSize=15" width="100%" alt="Omkar Thombare profile banner"/>
 
-### 🤖 AI / Machine Learning
-<img src="https://img.shields.io/badge/Machine%20Learning-00A67E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-6C4AB6?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+### 🚀 Aspiring AI Engineer | Building Practical AI Projects
 
-### 📊 Data Analysis & Visualization
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+📍 Maharashtra, India · 🎓 B.Tech in Computer Science Engineering
 
-### 🧩 Frameworks
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-### 🧰 Developer Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-### ☁️ Cloud
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<a href="https://linkedin.com/in/omkar-thombare-781017278"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:thombareomkar191@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/OMKARTHOMBARE007"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
-<br>
+---
 
-## 📊 GitHub Analytics
+## 👨‍💻 About Me
 
-<div align="center">
+Hello! I'm **Omkar**, a Computer Science Engineering graduate interested in Artificial Intelligence and Machine Learning.
 
-<img src="https://github-readme-stats.vercel.app/api?username=OMKARTHOMBARE007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=440" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARTHOMBARE007&layout=compact&theme=tokyonight&hide_border=true&card_width=440" width="49%"/>
+- 🤖 I enjoy building practical AI and ML projects.
+- 🧠 I am learning Deep Learning and Generative AI.
+- 💻 I work with Python, SQL, and machine learning tools.
+- 🌱 I improve my skills through learning and hands-on practice.
+- 🎯 My goal is to become an AI Engineer and solve real-world problems.
 
-<img src="https://streak-stats.demolab.com?user=OMKARTHOMBARE007&theme=tokyonight&hide_border=true" width="49.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OMKARTHOMBARE007&theme=tokyonight" width="49.5%"/>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OMKARTHOMBARE007&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+## 🛠️ My Tech Stack
 
-</div>
+**Programming Languages**
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**Data Analysis**
 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Machine Learning & Deep Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?style=flat-square)
+
+**Generative AI & Backend**
+
+![LLMs](https://img.shields.io/badge/LLMs-6E40C9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-8957E5?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 1. 💳 Financial Fraud Detection
 
-### 🏛️ Digital Gram Panchayat Intelligence System
-An AI-powered platform designed to digitize and streamline Gram Panchayat operations, enabling smarter, data-driven local governance.
+**Goal:** Identify potentially fraudulent financial transactions using machine learning.
 
-`Python` `AI` `Data Analytics`
+- Analyzed a dataset containing 284,807 transactions.
+- Built a Random Forest classification model.
+- Focused on detecting fraud in an imbalanced dataset.
+- Reported results: 99.95% accuracy, 97.14% precision, and 82.42% F1-score.
 
-</td>
-<td width="50%" valign="top">
+**Technologies:** Python, Pandas, Scikit-learn, Machine Learning
 
-### 📄 Resume Analyzer using NLP
-An NLP-driven system that parses, analyzes, and scores resumes against job descriptions to assist recruiters and candidates alike.
+[📂 View Project on GitHub](https://github.com/OMKARTHOMBARE007/Financial-Fraud-Detection)
 
-`NLP` `Python` `Machine Learning`
+### 2. 🏡 Digital Gram Panchayat Intelligence System
 
-</td>
-</tr>
+**Goal:** Use data and technology to support smarter village governance.
 
-<tr>
-<td width="50%" valign="top">
+- Prioritizes citizen complaints.
+- Supports water shortage analysis.
+- Uses dashboards to present useful information.
+- Aims to help local authorities make better decisions.
 
-### 📰 Fake News Detection
-A machine learning classifier that detects fake news articles using NLP-based text preprocessing and classification models.
+**Technologies:** Python, MySQL, Power BI, Machine Learning
 
-`NLP` `ML` `Text Classification`
+[📂 View Project on GitHub](https://github.com/OMKARTHOMBARE007/Digital-Gram-Panchayat-Intelligence-System)
 
-</td>
-<td width="50%" valign="top">
+### 3. 🌾 Harvest2Market AI — Smart Crop Selling Advisor
 
-### 🎤 AI Interview Question Generator
-A GenAI-powered application that generates role-specific interview questions to help candidates prepare effectively.
+**Goal:** Help farmers compare crop market prices and make informed selling decisions.
 
-`Generative AI` `LLM` `Python`
+- Designed around agricultural market information.
+- Aims to compare prices across markets.
+- Can include a profit calculator and price analysis.
+- Live market data integration is planned.
 
-</td>
-</tr>
+**Planned technologies:** React, FastAPI, Machine Learning
 
-<tr>
-<td width="50%" valign="top">
+*Project status and features should be updated as development progresses.*
 
-### 💹 Financial Analytics Dashboard
-An interactive dashboard for visualizing and analyzing financial data trends to support data-driven decision-making.
+---
 
-`Power BI` `Data Analytics` `Python`
-
-
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Healthcare AI Projects
-AI/ML-based solutions applied to healthcare data for predictive analysis and improved decision support systems.
-
-`Machine Learning` `Healthcare` `Data Science`
-
-</td>
-<td width="50%" valign="top">
+## 📊 GitHub Statistics
 
 <div align="center">
 
-**⭐ More projects on my GitHub**
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=OMKARTHOMBARE007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 
-<a href="https://github.com/OMKARTHOMBARE007?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-2c3e50?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARTHOMBARE007&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=OMKARTHOMBARE007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ## 📚 Currently Learning
 
-<div align="center">
+- 🧠 Deep Learning with PyTorch
+- 🤖 Generative AI and Large Language Models
+- 🔎 Retrieval-Augmented Generation (RAG)
+- ⚡ Building APIs with FastAPI
+- 🚀 Deploying AI applications
 
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-0f3460?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+---
 
-</div>
+## 🤝 Let's Connect!
 
-<br>
+I'm interested in **AI Engineer opportunities, internships, and open-source collaborations**.
 
-<details>
-<summary><b>🏅 Achievements & Milestones</b></summary>
-<br>
-
-- 🤖 Built and deployed multiple **end-to-end AI/ML projects**
-- 🌐 Active learner in the **open-source community**
-- 📈 Delivered several **data analytics & visualization** projects
-- 🧠 Hands-on experience across the **ML project lifecycle** — from data collection to model deployment
-
-</details>
-
-<br>
-
-## 📫 Connect With Me
+If you're working on an interesting AI project, let's connect!
 
 <div align="center">
 
-<a href="https://linkedin.com/in/omkar-thombare-781017278">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:thombareomkar191@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/OMKARTHOMBARE007">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/OMKARTHOMBARE007">Explore My Repositories →</a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-### 💬 
-
-> *"The future belongs to those who understand that Artificial Intelligence is not about replacing human intelligence — it's about amplifying it."*
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%"/>
-
-**⭐ If you like my work, consider giving my repositories a star!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
